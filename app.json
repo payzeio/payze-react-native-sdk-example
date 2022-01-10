@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "payze-react-native-sdk-example",
+    "slug": "payze-react-native-sdk-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "payze-react-native-sdk-example"
+}
